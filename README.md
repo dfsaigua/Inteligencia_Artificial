@@ -1,2 +1,0 @@
-# Inteligencia_Artificial
-Proyecto
