@@ -1,0 +1,601 @@
+Id;Familia;Especie;Nombre común;Sonido;Clase;Clase_Id
+1;Thraupidae;Conothraupis speculigera;Tangara Negriblanca;1.wav;Tangara;1
+2;Thraupidae;Buthraupis montana;Tangara Montana Encapuchada;2.wav;Tangara;1
+3;Thraupidae;Tangara palmeri;Tangara Doradigrís;3.wav;Tangara;1
+4;Thraupidae;Tachyphonus luctuosus;Tangara Hombriblanca;4.wav;Tangara;1
+5;Thraupidae;Tachyphonus surinamus;Tangara Crestifulva;5.wav;Tangara;1
+6;Thraupidae;Tachyphonus delatrii;Tangara Crestinaranja;6.wav;Tangara;1
+7;Thraupidae;Tachyphonus rufus;Tangara Filiblanca;7.wav;Tangara;1
+8;Thraupidae;Eucometis penicillata;Tangara Cabecigrís;8.wav;Tangara;1
+9;Thraupidae;Ramphocelus nigrogularis;Tangara Enmascarada;9.wav;Tangara;1
+10;Thraupidae;Ramphocelus carbo;Tangara Concho de Vino;10.wav;Tangara;1
+11;Thraupidae;Ramphocelus flammigerus;Tangara Lomiflama;11.wav;Tangara;1
+12;Thraupidae;Lanio fulvus;Tangara Fulva;12.wav;Tangara;1
+13;Thraupidae;Chrysothlypis salmoni;Tangara Escarlatiblanca;13.wav;Tangara;1
+14;Thraupidae;Heterospingus xanthopygius;Tangara Cejiescarlata;14.wav;Tangara;1
+15;Thraupidae;Hemithraupis guira;Tangara Güira;15.wav;Tangara;1
+16;Thraupidae;Hemithraupis flavicollis;Tangara Lomiamarilla;16.wav;Tangara;1
+17;Thraupidae;Bangsia edwardsi;Tangara Dorsimusgosa;17.wav;Tangara;1
+18;Thraupidae;Bangsia rothschildi;Tangara Pechidorada;18.wav;Tangara;1
+19;Thraupidae;Schistochlamys melanopis;Tangara Carinegra;19.wav;Tangara;1
+20;Thraupidae;Cissopis leverianus;Tangara Urraca;20.wav;Tangara;1
+21;Thraupidae;Wetmorethraupis sterrhopteron;Tangara Golinaranja;21.wav;Tangara;1
+22;Thraupidae;Iridosornis porphyrocephalus;Tangara Dorsipurpurina (Dorsipúrpura);22.wav;Tangara;1
+23;Thraupidae;Iridosornis analis;Tangara Goliamarilla;23.wav;Tangara;1
+24;Thraupidae;Iridosornis rufivertex;Tangara Coronidorada;24.wav;Tangara;1
+25;Thraupidae;Cnemathraupis eximia;Tangara Montana Pechinegra;25.wav;Tangara;1
+26;Thraupidae;Pipraeidea bonariensis;Tangara Azuliamarilla;26.wav;Tangara;1
+27;Thraupidae;Dubusia taeniata;Tangara Montana Pechianteada (Pechihabana);27.wav;Tangara;1
+28;Thraupidae;Tangara viridicollis;Tangara Plateada;28.wav;Tangara;1
+29;Thraupidae;Tangara heinei;Tangara Gorrinegra;29.wav;Tangara;1
+30;Thraupidae;Tangara argyrofenges;Tangara Goliverde;30.wav;Tangara;1
+31;Troglodytidae;Microcerculus marginatus;Soterrey Pechiescamado;31.wav;Soterrey;2
+32;Troglodytidae;Microcerculus bambla;Soterrey Alifranjeado;32.wav;Soterrey;2
+33;Troglodytidae;Odontorchilus branickii;Soterrey Dorsigrís;33.wav;Soterrey;2
+34;Troglodytidae;Troglodytes aedon;Soterrey Criollo;34.wav;Soterrey;2
+35;Troglodytidae;Troglodytes solstitialis;Soterrey Montañés (Montañero);35.wav;Soterrey;2
+36;Troglodytidae;Cistothorus platensis;Soterrey Sabanero;36.wav;Soterrey;2
+37;Troglodytidae;Campylorhynchus zonatus;Soterrey Dorsibandeado;37.wav;Soterrey;2
+38;Troglodytidae;Campylorhynchus fasciatus;Soterrey Ondeado;38.wav;Soterrey;2
+39;Troglodytidae;Campylorhynchus turdinus;Soterrey Mirlo;39.wav;Soterrey;2
+40;Troglodytidae;Pheugopedius euophrys;Soterrey Colillano;40.wav;Soterrey;2
+41;Troglodytidae;Pheugopedius mystacalis;Soterrey Bigotillo (Bigotudo);41.wav;Soterrey;2
+42;Troglodytidae;Pheugopedius coraya;Soterrey Coraya;42.wav;Soterrey;2
+43;Troglodytidae;Pheugopedius sclateri;Soterrey Pechijaspeado;43.wav;Soterrey;2
+44;Troglodytidae;Cantorchilus leucopogon;Soterrey Golirrayado;44.wav;Soterrey;2
+45;Troglodytidae;Cantorchilus nigricapillus;Soterrey Cabecipinto;45.wav;Soterrey;2
+46;Troglodytidae;Cantorchilus superciliaris;Soterrey Cejón;46.wav;Soterrey;2
+47;Troglodytidae;Cantorchilus leucotis;Soterrey Pechianteado;47.wav;Soterrey;2
+48;Troglodytidae;Cinnycerthia unirufa;Soterrey Rufo;48.wav;Soterrey;2
+49;Troglodytidae;Cinnycerthia olivascens;Soterrey Caferrojizo (de Sharpe);49.wav;Soterrey;2
+50;Troglodytidae;Henicorhina leucosticta;Soterrey Montés Pechiblanco;50.wav;Soterrey;2
+51;Troglodytidae;Henicorhina leucoptera;Soterrey Montés Alibandeado;51.wav;Soterrey;2
+52;Troglodytidae;Henicorhina leucophrys;Soterrey Montés Pechigrís;52.wav;Soterrey;2
+53;Troglodytidae;Cyphorhinus thoracicus;Soterrey Pechicastaño;53.wav;Soterrey;2
+54;Troglodytidae;Cyphorhinus phaeocephalus;Soterrey Canoro (Cantante);54.wav;Soterrey;2
+55;Troglodytidae;Cyphorhinus arada;Soterrey Virtuoso;55.wav;Soterrey;2
+56;Troglodytidae;Cantorchilus leucopogon;Soterrey Golirrayado;56.wav;Soterrey;2
+57;Troglodytidae;Campylorhynchus fasciatus;Soterrey Ondeado;57.wav;Soterrey;2
+58;Troglodytidae;Campylorhynchus zonatus;Soterrey Dorsibandeado;58.wav;Soterrey;2
+59;Troglodytidae;Cantorchilus nigricapillus;Soterrey Cabecipinto;59.wav;Soterrey;2
+60;Troglodytidae;Henicorhina leucosticta;Soterrey Montés Pechiblanco;60.wav;Soterrey;2
+61;Furnariidae;Sittasomus griseicapillus;Trepatroncos Oliváceo;61.wav;Trepatroncos;3
+62;Furnariidae;Deconychura longicauda;Trepatroncos Colilargo;62.wav;Trepatroncos;3
+63;Furnariidae;Dendrocincla tyrannina;Trepatroncos Tiranino;63.wav;Trepatroncos;3
+64;Furnariidae;Dendrocincla merula;Trepatroncos Barbiblanco;64.wav;Trepatroncos;3
+65;Furnariidae;Dendrocincla fuliginosa;Trepatroncos Pardo;65.wav;Trepatroncos;3
+66;Furnariidae;Glyphorynchus spirurus;Trepatroncos Piquicuña;66.wav;Trepatroncos;3
+67;Furnariidae;Dendrexetastes rufigula;Trepatroncos Golicanela;67.wav;Trepatroncos;3
+68;Furnariidae;Nasica longirostris;Trepatroncos Piquilargo;68.wav;Trepatroncos;3
+69;Furnariidae;Dendrocolaptes sanctithomae;Trepatroncos Barreteado Norteño;69.wav;Trepatroncos;3
+70;Furnariidae;Dendrocolaptes certhia;Trepatroncos Barreteado Amazónico;70.wav;Trepatroncos;3
+71;Furnariidae;Dendrocolaptes picumnus;Trepatroncos Negribandeado;71.wav;Trepatroncos;3
+72;Furnariidae;Hylexetastes stresemanni;Trepatroncos Ventribarrado;72.wav;Trepatroncos;3
+73;Furnariidae;Xiphocolaptes promeropirhynchus;Trepatroncos Piquifuerte;73.wav;Trepatroncos;3
+74;Furnariidae;Xiphorhynchus obsoletus;Trepatroncos Listado;74.wav;Trepatroncos;3
+75;Furnariidae;Xiphorhynchus ocellatus;Trepatroncos Ocelado;75.wav;Trepatroncos;3
+76;Furnariidae;Xiphorhynchus elegans;Trepatroncos Elegante;76.wav;Trepatroncos;3
+77;Furnariidae;Xiphorhynchus guttatus;Trepatroncos Golianteado;77.wav;Trepatroncos;3
+78;Furnariidae;Xiphorhynchus lachrymosus;Trepatroncos Pinto;78.wav;Trepatroncos;3
+79;Furnariidae;Xiphorhynchus erythropygius;Trepatroncos Punteado;79.wav;Trepatroncos;3
+80;Furnariidae;Xiphorhynchus triangularis;Trepatroncos Dorsioliva;80.wav;Trepatroncos;3
+81;Furnariidae;Dendroplex picus;Trepatroncos Piquirrecto;81.wav;Trepatroncos;3
+82;Furnariidae;Certhiasomus stictolaemus;Trepatroncos Golipunteado;82.wav;Trepatroncos;3
+83;Furnariidae;Lepidocolaptes souleyetii;Trepatroncos Cabecilistado;83.wav;Trepatroncos;3
+84;Furnariidae;Lepidocolaptes lacrymiger;Trepatroncos Montano (Montañero);84.wav;Trepatroncos;3
+85;Furnariidae;Lepidocolaptes duidae;Trepatroncos de Duida;85.wav;Trepatroncos;3
+86;Furnariidae;Glyphorynchus spirurus;Trepatroncos Piquicuña;86.wav;Trepatroncos;3
+87;Furnariidae;Dendrocincla tyrannina;Trepatroncos Tiranino;87.wav;Trepatroncos;3
+88;Furnariidae;Nasica longirostris;Trepatroncos Piquilargo;88.wav;Trepatroncos;3
+89;Furnariidae;Xiphorhynchus lachrymosus;Trepatroncos Pinto;89.wav;Trepatroncos;3
+90;Furnariidae;Xiphorhynchus triangularis;Trepatroncos Dorsioliva;90.wav;Trepatroncos;3
+91;Tyrannidae;Mionectes striaticollis;Mosquerito Cuellilistado;91.wav;Mosquerito;4
+92;Tyrannidae;Mionectes olivaceus;Mosquerito Olivirrayado;92.wav;Mosquerito;4
+93;Tyrannidae;Mionectes oleagineus;Mosquerito Ventriocráceo;93.wav;Mosquerito;4
+94;Tyrannidae;Leptopogon amaurocephalus;Mosquerito Gorrisepia;94.wav;Mosquerito;4
+95;Tyrannidae;Leptopogon superciliaris;Mosquerito Gorripizarroso;95.wav;Mosquerito;4
+96;Tyrannidae;Leptopogon rufipectus;Mosquerito Pechirrufo;96.wav;Mosquerito;4
+97;Tyrannidae;Sublegatus obscurior;Mosquerito Breñero Amazónico;97.wav;Mosquerito;4
+98;Tyrannidae;Sublegatus modestus;Mosquerito Breñero Sureño;98.wav;Mosquerito;4
+99;Tyrannidae;Myiotriccus ornatus;Mosquerito Adornado;99.wav;Mosquerito;4
+100;Tyrannidae;Myiophobus flavicans;Mosquerito Flavecente;100.wav;Mosquerito;4
+101;Tyrannidae;Myiophobus phoenicomitra;Mosquerito Crestinaranja;101.wav;Mosquerito;4
+102;Tyrannidae;Myiophobus roraimae;Mosquerito Roraimeño (de Roraima);102.wav;Mosquerito;4
+103;Tyrannidae;Myiophobus cryptoxanthus;Mosquerito Pechioliváceo;103.wav;Mosquerito;4
+104;Tyrannidae;Myiophobus fasciatus;Mosquerito Pechirrayado;104.wav;Mosquerito;4
+105;Tyrannidae;Myiobius villosus;Mosquerito Pechileonado;105.wav;Mosquerito;4
+106;Tyrannidae;Myiobius barbatus;Mosquerito Bigotudo;106.wav;Mosquerito;4
+107;Tyrannidae;Myiobius atricaudus;Mosquerito Colinegro;107.wav;Mosquerito;4
+108;Tyrannidae;Terenotriccus erythrurus;Mosquerito Colirrojizo;108.wav;Mosquerito;4
+109;Tyrannidae;Pyrrhomyias cinnamomeus;Mosquerito Canelo;109.wav;Mosquerito;4
+110;Tyrannidae;Nephelomyias pulcher;Mosquerito Hermoso;110.wav;Mosquerito;4
+111;Tyrannidae;Nephelomyias lintoni;Mosquerito Franjinaranja;111.wav;Mosquerito;4
+112;Tyrannidae;Lathrotriccus euleri;Mosquerito de Euler;112.wav;Mosquerito;4
+113;Tyrannidae;Lathrotriccus griseipectus;Mosquerito Pechigrís;113.wav;Mosquerito;4
+114;Tyrannidae;Cnemotriccus fuscatus;Mosquerito Fusco;114.wav;Mosquerito;4
+115;Tyrannidae;Empidonax virescens;Mosquerito Verdoso;115.wav;Mosquerito;4
+116;Tyrannidae;Empidonax traillii;Mosquerito de Sauces;116.wav;Mosquerito;4
+117;Tyrannidae;Empidonax alnorum;Mosquerito de Alisos;117.wav;Mosquerito;4
+118;Tyrannidae;Mitrephanes phaeocercus;Mosquerito Moñudo Norteño;118.wav;Mosquerito;4
+119;Tyrannidae;Nephelomyias lintoni;Mosquerito Franjinaranja;119.wav;Mosquerito;4
+120;Tyrannidae;Lathrotriccus euleri;Mosquerito de Euler;120.wav;Mosquerito;4
+121;Thamnophilidae;Drymophila devillei;Hormiguero Estriado;121.wav;Hormiguero;5
+122;Thamnophilidae;Drymophila striaticeps;Hormiguero Coronirrayado;122.wav;Hormiguero;5
+123;Thamnophilidae;Hypocnemis peruviana;Hormiguero Gorjeador Peruano;123.wav;Hormiguero;5
+124;Thamnophilidae;Hypocnemis hypoxantha;Hormiguero Cejiamarillo;124.wav;Hormiguero;5
+125;Thamnophilidae;Cercomacroides tyrannina;Hormiguero Oscuro;125.wav;Hormiguero;5
+126;Thamnophilidae;Cercomacroides serva;Hormiguero Negro;126.wav;Hormiguero;5
+127;Thamnophilidae;Cercomacroides nigrescens;Hormiguero Negruzco;127.wav;Hormiguero;5
+128;Thamnophilidae;Cercomacroides fuscicauda;Hormiguero Ribereño;128.wav;Hormiguero;5
+129;Thamnophilidae;Cercomacra cinerascens;Hormiguero Gris;129.wav;Hormiguero;5
+130;Thamnophilidae;Cercomacra nigricans;Hormiguero Azabache;130.wav;Hormiguero;5
+131;Thamnophilidae;Myrmoborus leucophrys;Hormiguero Cejiblanco;131.wav;Hormiguero;5
+132;Thamnophilidae;Myrmoborus lugubris;Hormiguero Pechicinéreo;132.wav;Hormiguero;5
+133;Thamnophilidae;Myrmoborus myotherinus;Hormiguero Carinegro;133.wav;Hormiguero;5
+134;Thamnophilidae;Hypocnemoides melanopogon;Hormiguero Barbinegro;134.wav;Hormiguero;5
+135;Thamnophilidae;Myrmochanes hemileucus;Hormiguero Negriblanco;135.wav;Hormiguero;5
+136;Thamnophilidae;Sclateria naevia;Hormiguero Plateado;136.wav;Hormiguero;5
+137;Thamnophilidae;Myrmelastes schistaceus;Hormiguero Pizarroso;137.wav;Hormiguero;5
+138;Thamnophilidae;Myrmelastes hyperythrus;Hormiguero Plomizo;138.wav;Hormiguero;5
+139;Thamnophilidae;Myrmelastes leucostigma;Hormiguero Alimoteado;139.wav;Hormiguero;5
+140;Thamnophilidae;Poliocrania exsul;Hormiguero Dorsicastaño;140.wav;Hormiguero;5
+141;Thamnophilidae;Ampelornis griseiceps;Hormiguero Cabecigrís;141.wav;Hormiguero;5
+142;Thamnophilidae;Sipia nigricauda;Hormiguero Esmeraldeño;142.wav;Hormiguero;5
+143;Thamnophilidae;Sipia berlepschi;Hormiguero Colimocho;143.wav;Hormiguero;5
+144;Thamnophilidae;Sciaphylax castanea;Hormiguero de Zimmer (Colicastaño Norteño);144.wav;Hormiguero;5
+145;Thamnophilidae;Akletos melanoceps;Hormiguero Hombriblanco;145.wav;Hormiguero;5
+146;Thamnophilidae;Hafferia fortis;Hormiguero Tiznado;146.wav;Hormiguero;5
+147;Thamnophilidae;Hafferia zeledoni;Hormiguero de Zeledon;147.wav;Hormiguero;5
+148;Thamnophilidae;Myrmophylax atrothorax;Hormiguero Golinegro;148.wav;Hormiguero;5
+149;Thamnophilidae;Myrmornis torquata;Hormiguero Alibandeado;149.wav;Hormiguero;5
+150;Thamnophilidae;Pithys albifrons;Hormiguero Cuerniblanco;150.wav;Hormiguero;5
+151;Thamnophilidae;Euchrepomis callinota;Hormiguerito Lomirrufo;151.wav;Hormiguerito;6
+152;Thamnophilidae;Euchrepomis humeralis;Hormiguerito Hombricastaño;152.wav;Hormiguerito;6
+153;Thamnophilidae;Euchrepomis spodioptila;Hormiguerito Alicinéreo;153.wav;Hormiguerito;6
+154;Thamnophilidae;Isleria hauxwelli;Hormiguerito Golillano;154.wav;Hormiguerito;6
+155;Thamnophilidae;Epinecrophylla fulviventris;Hormiguerito Ventrifulvo;155.wav;Hormiguerito;6
+156;Thamnophilidae;Epinecrophylla haematonota;Hormiguerito Golipunteado;156.wav;Hormiguerito;6
+157;Thamnophilidae;Epinecrophylla fjeldsaai;Hormiguerito del Yasuní;157.wav;Hormiguerito;6
+158;Thamnophilidae;Epinecrophylla spodionota;Hormiguerito Tropandino;158.wav;Hormiguerito;6
+159;Thamnophilidae;Epinecrophylla ornata;Hormiguerito Adornado;159.wav;Hormiguerito;6
+160;Thamnophilidae;Epinecrophylla erythrura;Hormiguerito Colirrufo;160.wav;Hormiguerito;6
+161;Thamnophilidae;Myrmotherula brachyura;Hormiguerito Pigmeo;161.wav;Hormiguerito;6
+162;Thamnophilidae;Myrmotherula ignota;Hormiguerito Bigotudo;162.wav;Hormiguerito;6
+163;Thamnophilidae;Myrmotherula multostriata;Hormiguerito Rayado Amazónico;163.wav;Hormiguerito;6
+164;Thamnophilidae;Myrmotherula pacifica;Hormiguerito del Pacífico;164.wav;Hormiguerito;6
+165;Thamnophilidae;Myrmotherula longicauda;Hormiguerito Pechilistado;165.wav;Hormiguerito;6
+166;Thamnophilidae;Myrmotherula axillaris;Hormiguerito Flanquiblanco;166.wav;Hormiguerito;6
+167;Thamnophilidae;Myrmotherula schisticolor;Hormiguerito Pizarroso;167.wav;Hormiguerito;6
+168;Thamnophilidae;Myrmotherula sunensis;Hormiguerito del Suno;168.wav;Hormiguerito;6
+169;Thamnophilidae;Myrmotherula longipennis;Hormiguerito Alilargo;169.wav;Hormiguerito;6
+170;Thamnophilidae;Myrmotherula behni;Hormiguerito Alillano;170.wav;Hormiguerito;6
+171;Thamnophilidae;Myrmotherula menetriesii;Hormiguerito Gris;171.wav;Hormiguerito;6
+172;Thamnophilidae;Herpsilochmus dugandi;Hormiguerito de Dugand;172.wav;Hormiguerito;6
+173;Thamnophilidae;Herpsilochmus gentryi;Hormiguerito Antiguo;173.wav;Hormiguerito;6
+174;Thamnophilidae;Herpsilochmus axillaris;Hormiguerito Pechiamarillo;174.wav;Hormiguerito;6
+175;Thamnophilidae;Herpsilochmus rufimarginatus;Hormiguerito Alirrufo;175.wav;Hormiguerito;6
+176;Thamnophilidae;Microrhopias quixensis;Hormiguerito Alipunteado;176.wav;Hormiguerito;6
+177;Thamnophilidae;Myrmotherula brachyura;Hormiguerito Pigmeo;177.wav;Hormiguerito;6
+178;Thamnophilidae;Myrmotherula ignota;Hormiguerito Bigotudo;178.wav;Hormiguerito;6
+179;Thamnophilidae;Myrmotherula multostriata;Hormiguerito Rayado Amazónico;179.wav;Hormiguerito;6
+180;Thamnophilidae;Myrmotherula pacifica;Hormiguerito del Pacífico;180.wav;Hormiguerito;6
+181;Picidae;Melanerpes cruentatus;Carpintero Penachiamarillo;181.wav;Carpintero;7
+182;Picidae;Melanerpes pucherani;Carpintero Carinegro;182.wav;Carpintero;7
+183;Picidae;Picoides fumigatus;Carpintero Pardo;183.wav;Carpintero;7
+184;Picidae;Veniliornis kirkii;Carpintero Lomirrojo;184.wav;Carpintero;7
+185;Picidae;Veniliornis passerinus;Carpintero Chico;185.wav;Carpintero;7
+186;Picidae;Veniliornis callonotus;Carpintero Dorsiescarlata;186.wav;Carpintero;7
+187;Picidae;Veniliornis dignus;Carpintero Ventriamarillo;187.wav;Carpintero;7
+188;Picidae;Veniliornis nigriceps;Carpintero Ventribarrado;188.wav;Carpintero;7
+189;Picidae;Veniliornis affinis;Carpintero Rojiteñido;189.wav;Carpintero;7
+190;Picidae;Veniliornis chocoensis;Carpintero del Chocó;190.wav;Carpintero;7
+191;Picidae;Campephilus pollens;Carpintero Poderoso;191.wav;Carpintero;7
+192;Picidae;Campephilus haematogaster;Carpintero Carminoso;192.wav;Carpintero;7
+193;Picidae;Campephilus rubricollis;Carpintero Cuellirrufo;193.wav;Carpintero;7
+194;Picidae;Campephilus melanoleucos;Carpintero Cresticarmesí;194.wav;Carpintero;7
+195;Picidae;Campephilus gayaquilensis;Carpintero Guayaquileño;195.wav;Carpintero;7
+196;Picidae;Dryocopus lineatus;Carpintero Lineado;196.wav;Carpintero;7
+197;Picidae;Celeus loricatus;Carpintero Canelo;197.wav;Carpintero;7
+198;Picidae;Celeus torquatus;Carpintero Fajeado;198.wav;Carpintero;7
+199;Picidae;Celeus grammicus;Carpintero Pechiescamoso;199.wav;Carpintero;7
+200;Picidae;Celeus flavus;Carpintero Flavo (Cremoso);200.wav;Carpintero;7
+201;Picidae;Celeus spectabilis;Carpintero Cabecirrufo;201.wav;Carpintero;7
+202;Picidae;Celeus elegans;Carpintero Castaño;202.wav;Carpintero;7
+203;Picidae;Piculus leucolaemus;Carpintero Goliblanco;203.wav;Carpintero;7
+204;Picidae;Piculus litae;Carpintero de Lita;204.wav;Carpintero;7
+205;Picidae;Piculus flavigula;Carpintero Goliamarillo;205.wav;Carpintero;7
+206;Picidae;Piculus chrysochloros;Carpintero Verdidorado;206.wav;Carpintero;7
+207;Picidae;Colaptes rubiginosus;Carpintero Olividorado;207.wav;Carpintero;7
+208;Picidae;Colaptes rivolii;Carpintero Dorsicarmesí;208.wav;Carpintero;7
+209;Picidae;Colaptes punctigula;Carpintero Pechipunteado;209.wav;Carpintero;7
+210;Picidae;Piculus chrysochloros;Carpintero Verdidorado;210.wav;Carpintero;7
+211;Parulidae;Setophaga castanea;Reinita Pechicastaña;211.wav;Reinita;8
+212;Parulidae;Setophaga fusca;Reinita Pechinaranja;212.wav;Reinita;8
+213;Parulidae;Setophaga petechia;Reinita Amarilla;213.wav;Reinita;8
+214;Parulidae;Setophaga pensylvanica;Reinita Flanquicastaña;214.wav;Reinita;8
+215;Parulidae;Setophaga striata;Reinita Estriada;215.wav;Reinita;8
+216;Parulidae;Setophaga caerulescens;Reinita Carinegra;216.wav;Reinita;8
+217;Parulidae;Setophaga virens;Reinita Cariamarilla;217.wav;Reinita;8
+218;Parulidae;Myiothlypis luteoviridis;Reinita Citrina;218.wav;Reinita;8
+219;Parulidae;Myiothlypis nigrocristata;Reinita Crestinegra;219.wav;Reinita;8
+220;Parulidae;Myiothlypis fulvicauda;Reinita Lomiantada;220.wav;Reinita;8
+221;Parulidae;Myiothlypis chrysogaster;Reinita Ventridorada;221.wav;Reinita;8
+222;Parulidae;Myiothlypis fraseri;Reinita Grisidorada;222.wav;Reinita;8
+223;Parulidae;Myiothlypis coronata;Reinita Coronirrojiza;223.wav;Reinita;8
+224;Parulidae;Basileuterus tristriatus;Reinita Cabecilistada;224.wav;Reinita;8
+225;Parulidae;Basileuterus trifasciatus;Reinita Tribandeada;225.wav;Reinita;8
+226;Parulidae;Cardellina canadensis;Reinita Collareja (de Canadá);226.wav;Reinita;8
+227;Parulidae;Cardellina pusilla;Reinita de Wilson;227.wav;Reinita;8
+228;Parulidae;Seiurus aurocapilla;Reinita Hornera;228.wav;Reinita;8
+229;Parulidae;Parkesia noveboracensis;Reinita Acuática Norteña;229.wav;Reinita;8
+230;Parulidae;Vermivora chrysoptera;Reinita Alidorada;230.wav;Reinita;8
+231;Parulidae;Mniotilta varia;Reinita Blanquinegra (Cebra);231.wav;Reinita;8
+232;Parulidae;Protonotaria citrea;Reinita Protonotaria;232.wav;Reinita;8
+233;Parulidae;Leiothlypis peregrina;Reinita Verdilla;233.wav;Reinita;8
+234;Parulidae;Oporornis agilis;Reinita Ojianillada;234.wav;Reinita;8
+235;Parulidae;Geothlypis philadelphia;Reinita Plañidera;235.wav;Reinita;8
+236;Parulidae;Setophaga cerulea;Reinita Cerúlea;236.wav;Reinita;8
+237;Parulidae;Seiurus aurocapilla;Reinita Hornera;237.wav;Reinita;8
+238;Parulidae;Myiothlypis nigrocristata;Reinita Crestinegra;238.wav;Reinita;8
+239;Parulidae;Myiothlypis fulvicauda;Reinita Lomiantada;239.wav;Reinita;8
+240;Parulidae;Setophaga caerulescens;Reinita Carinegra;240.wav;Reinita;8
+241;Accipitridae;Busarellus nigricollis;Gavilán de Ciénegas;241.wav;Gavilan;9
+242;Accipitridae;Geranospiza caerulescens;Gavilán Zancón;242.wav;Gavilan;9
+243;Accipitridae;Cryptoleucopteryx plumbea;Gavilán Plomizo;243.wav;Gavilan;9
+244;Accipitridae;Buteogallus schistaceus;Gavilán Pizarroso;244.wav;Gavilan;9
+245;Accipitridae;Buteogallus anthracinus;Gavilán Negro Cangrejero;245.wav;Gavilan;9
+246;Accipitridae;Buteogallus meridionalis;Gavilán Sabanero;246.wav;Gavilan;9
+247;Accipitridae;Buteogallus urubitinga;Gavilán Negro Grande;247.wav;Gavilan;9
+248;Accipitridae;Morphnarchus princeps;Gavilán Barreteado;248.wav;Gavilan;9
+249;Accipitridae;Rupornis magnirostris;Gavilán Campestre (Caminero);249.wav;Gavilan;9
+250;Accipitridae;Parabuteo unicinctus;Gavilán de Harris;250.wav;Gavilan;9
+251;Accipitridae;Parabuteo leucorrhous;Gavilán Lomiblanco;251.wav;Gavilan;9
+252;Accipitridae;Geranoaetus polyosoma;Gavilán Dorsirrojizo;252.wav;Gavilan;9
+253;Accipitridae;Pseudastur occidentalis;Gavilán Dorsigrís;253.wav;Gavilan;9
+254;Accipitridae;Leucopternis semiplumbeus;Gavilán Semiplomizo;254.wav;Gavilan;9
+255;Accipitridae;Leucopternis melanops;Gavilán Carinegro;255.wav;Gavilan;9
+256;Accipitridae;Buteo nitidus;Gavilán Gris;256.wav;Gavilan;9
+257;Accipitridae;Buteo platypterus;Gavilán Aludo;257.wav;Gavilan;9
+258;Accipitridae;Buteo albigula;Gavilán Goliblanco;258.wav;Gavilan;9
+259;Accipitridae;Buteo brachyurus;Gavilán Colicorto;259.wav;Gavilan;9
+260;Accipitridae;Buteo swainsoni;Gavilán de Swainson;260.wav;Gavilan;9
+261;Accipitridae;Buteo galapagoensis;Gavilán de Galápagos;261.wav;Gavilan;9
+262;Accipitridae;Buteo albonotatus;Gavilán Colifajeado;262.wav;Gavilan;9
+263;Accipitridae;Buteogallus urubitinga;Gavilán Negro Grande;263.wav;Gavilan;9
+264;Accipitridae;Morphnarchus princeps;Gavilán Barreteado;264.wav;Gavilan;9
+265;Accipitridae;Parabuteo unicinctus;Gavilán de Harris;265.wav;Gavilan;9
+266;Accipitridae;Pseudastur occidentalis;Gavilán Dorsigrís;266.wav;Gavilan;9
+267;Accipitridae;Leucopternis semiplumbeus;Gavilán Semiplomizo;267.wav;Gavilan;9
+268;Accipitridae;Buteo nitidus;Gavilán Gris;268.wav;Gavilan;9
+269;Accipitridae;Morphnarchus princeps;Gavilán Barreteado;269.wav;Gavilan;9
+270;Accipitridae;Rupornis magnirostris;Gavilán Campestre (Caminero);270.wav;Gavilan;9
+271;Columbidae;Columba livia;Paloma Doméstica;271.wav;Paloma;10
+272;Columbidae;Patagioenas speciosa;Paloma Escamosa;272.wav;Paloma;10
+273;Columbidae;Patagioenas fasciata;Paloma (Torcaza) Collareja;273.wav;Paloma;10
+274;Columbidae;Patagioenas cayennensis;Paloma Ventripálida;274.wav;Paloma;10
+275;Columbidae;Patagioenas oenops;Paloma del Marañón (Peruana);275.wav;Paloma;10
+276;Columbidae;Patagioenas plumbea;Paloma Plomiza;276.wav;Paloma;10
+277;Columbidae;Patagioenas subvinacea;Paloma Rojiza;277.wav;Paloma;10
+278;Columbidae;Patagioenas goodsoni;Paloma Oscura;278.wav;Paloma;10
+279;Columbidae;Geotrygon purpurata;Paloma Perdiz Púrpura;279.wav;Paloma;10
+280;Columbidae;Geotrygon saphirina;Paloma Perdiz Zafiro;280.wav;Paloma;10
+281;Columbidae;Geotrygon montana;Paloma Perdiz Rojiza;281.wav;Paloma;10
+282;Columbidae;Leptotrygon veraguensis;Paloma Perdiz Dorsioliva;282.wav;Paloma;10
+283;Columbidae;Leptotila verreauxi;Paloma Apical;283.wav;Paloma;10
+284;Columbidae;Leptotila ochraceiventris;Paloma Ventiocrácea;284.wav;Paloma;10
+285;Columbidae;Leptotila rufaxilla;Paloma Frentigrís;285.wav;Paloma;10
+286;Columbidae;Leptotila pallida;Paloma Pálida;286.wav;Paloma;10
+287;Columbidae;Zentrygon frenata;Paloma Perdiz Goliblanca;287.wav;Paloma;10
+288;Columbidae;Leptotila verreauxi;Paloma Apical;288.wav;Paloma;10
+289;Columbidae;Geotrygon saphirina;Paloma Perdiz Zafiro;289.wav;Paloma;10
+290;Columbidae;Patagioenas plumbea;Paloma Plomiza;290.wav;Paloma;10
+291;Columbidae;Patagioenas goodsoni;Paloma Oscura;291.wav;Paloma;10
+292;Columbidae;Patagioenas fasciata;Paloma (Torcaza) Collareja;292.wav;Paloma;10
+293;Columbidae;Geotrygon purpurata;Paloma Perdiz Púrpura;293.wav;Paloma;10
+294;Columbidae;Geotrygon saphirina;Paloma Perdiz Zafiro;294.wav;Paloma;10
+295;Columbidae;Leptotila pallida;Paloma Pálida;295.wav;Paloma;10
+296;Columbidae;Geotrygon montana;Paloma Perdiz Rojiza;296.wav;Paloma;10
+297;Columbidae;Patagioenas cayennensis;Paloma Ventripálida;297.wav;Paloma;10
+298;Columbidae;Columba livia;Paloma Doméstica;298.wav;Paloma;10
+299;Columbidae;Patagioenas speciosa;Paloma Escamosa;299.wav;Paloma;10
+300;Columbidae;Leptotrygon veraguensis;Paloma Perdiz Dorsioliva;300.wav;Paloma;10
+301;Thraupidae;Conothraupis speculigera;Tangara Negriblanca;301.wav;Tangara;1
+302;Thraupidae;Buthraupis montana;Tangara Montana Encapuchada;302.wav;Tangara;1
+303;Thraupidae;Tangara palmeri;Tangara Doradigrís;303.wav;Tangara;1
+304;Thraupidae;Tachyphonus luctuosus;Tangara Hombriblanca;304.wav;Tangara;1
+305;Thraupidae;Tachyphonus surinamus;Tangara Crestifulva;305.wav;Tangara;1
+306;Thraupidae;Tachyphonus delatrii;Tangara Crestinaranja;306.wav;Tangara;1
+307;Thraupidae;Tachyphonus rufus;Tangara Filiblanca;307.wav;Tangara;1
+308;Thraupidae;Eucometis penicillata;Tangara Cabecigrís;308.wav;Tangara;1
+309;Thraupidae;Ramphocelus nigrogularis;Tangara Enmascarada;309.wav;Tangara;1
+310;Thraupidae;Ramphocelus carbo;Tangara Concho de Vino;310.wav;Tangara;1
+311;Thraupidae;Ramphocelus flammigerus;Tangara Lomiflama;311.wav;Tangara;1
+312;Thraupidae;Lanio fulvus;Tangara Fulva;312.wav;Tangara;1
+313;Thraupidae;Chrysothlypis salmoni;Tangara Escarlatiblanca;313.wav;Tangara;1
+314;Thraupidae;Heterospingus xanthopygius;Tangara Cejiescarlata;314.wav;Tangara;1
+315;Thraupidae;Hemithraupis guira;Tangara Güira;315.wav;Tangara;1
+316;Thraupidae;Hemithraupis flavicollis;Tangara Lomiamarilla;316.wav;Tangara;1
+317;Thraupidae;Bangsia edwardsi;Tangara Dorsimusgosa;317.wav;Tangara;1
+318;Thraupidae;Bangsia rothschildi;Tangara Pechidorada;318.wav;Tangara;1
+319;Thraupidae;Schistochlamys melanopis;Tangara Carinegra;319.wav;Tangara;1
+320;Thraupidae;Cissopis leverianus;Tangara Urraca;320.wav;Tangara;1
+321;Thraupidae;Wetmorethraupis sterrhopteron;Tangara Golinaranja;321.wav;Tangara;1
+322;Thraupidae;Iridosornis porphyrocephalus;Tangara Dorsipurpurina (Dorsipúrpura);322.wav;Tangara;1
+323;Thraupidae;Iridosornis analis;Tangara Goliamarilla;323.wav;Tangara;1
+324;Thraupidae;Iridosornis rufivertex;Tangara Coronidorada;324.wav;Tangara;1
+325;Thraupidae;Cnemathraupis eximia;Tangara Montana Pechinegra;325.wav;Tangara;1
+326;Thraupidae;Pipraeidea bonariensis;Tangara Azuliamarilla;326.wav;Tangara;1
+327;Thraupidae;Dubusia taeniata;Tangara Montana Pechianteada (Pechihabana);327.wav;Tangara;1
+328;Thraupidae;Tangara viridicollis;Tangara Plateada;328.wav;Tangara;1
+329;Thraupidae;Tangara heinei;Tangara Gorrinegra;329.wav;Tangara;1
+330;Thraupidae;Tangara argyrofenges;Tangara Goliverde;330.wav;Tangara;1
+331;Troglodytidae;Microcerculus marginatus;Soterrey Pechiescamado;331.wav;Soterrey;2
+332;Troglodytidae;Microcerculus bambla;Soterrey Alifranjeado;332.wav;Soterrey;2
+333;Troglodytidae;Odontorchilus branickii;Soterrey Dorsigrís;333.wav;Soterrey;2
+334;Troglodytidae;Troglodytes aedon;Soterrey Criollo;334.wav;Soterrey;2
+335;Troglodytidae;Troglodytes solstitialis;Soterrey Montañés (Montañero);335.wav;Soterrey;2
+336;Troglodytidae;Cistothorus platensis;Soterrey Sabanero;336.wav;Soterrey;2
+337;Troglodytidae;Campylorhynchus zonatus;Soterrey Dorsibandeado;337.wav;Soterrey;2
+338;Troglodytidae;Campylorhynchus fasciatus;Soterrey Ondeado;338.wav;Soterrey;2
+339;Troglodytidae;Campylorhynchus turdinus;Soterrey Mirlo;339.wav;Soterrey;2
+340;Troglodytidae;Pheugopedius euophrys;Soterrey Colillano;340.wav;Soterrey;2
+341;Troglodytidae;Pheugopedius mystacalis;Soterrey Bigotillo (Bigotudo);341.wav;Soterrey;2
+342;Troglodytidae;Pheugopedius coraya;Soterrey Coraya;342.wav;Soterrey;2
+343;Troglodytidae;Pheugopedius sclateri;Soterrey Pechijaspeado;343.wav;Soterrey;2
+344;Troglodytidae;Cantorchilus leucopogon;Soterrey Golirrayado;344.wav;Soterrey;2
+345;Troglodytidae;Cantorchilus nigricapillus;Soterrey Cabecipinto;345.wav;Soterrey;2
+346;Troglodytidae;Cantorchilus superciliaris;Soterrey Cejón;346.wav;Soterrey;2
+347;Troglodytidae;Cantorchilus leucotis;Soterrey Pechianteado;347.wav;Soterrey;2
+348;Troglodytidae;Cinnycerthia unirufa;Soterrey Rufo;348.wav;Soterrey;2
+349;Troglodytidae;Cinnycerthia olivascens;Soterrey Caferrojizo (de Sharpe);349.wav;Soterrey;2
+350;Troglodytidae;Henicorhina leucosticta;Soterrey Montés Pechiblanco;350.wav;Soterrey;2
+351;Troglodytidae;Henicorhina leucoptera;Soterrey Montés Alibandeado;351.wav;Soterrey;2
+352;Troglodytidae;Henicorhina leucophrys;Soterrey Montés Pechigrís;352.wav;Soterrey;2
+353;Troglodytidae;Cyphorhinus thoracicus;Soterrey Pechicastaño;353.wav;Soterrey;2
+354;Troglodytidae;Cyphorhinus phaeocephalus;Soterrey Canoro (Cantante);354.wav;Soterrey;2
+355;Troglodytidae;Cyphorhinus arada;Soterrey Virtuoso;355.wav;Soterrey;2
+356;Troglodytidae;Cantorchilus leucopogon;Soterrey Golirrayado;356.wav;Soterrey;2
+357;Troglodytidae;Campylorhynchus fasciatus;Soterrey Ondeado;357.wav;Soterrey;2
+358;Troglodytidae;Campylorhynchus zonatus;Soterrey Dorsibandeado;358.wav;Soterrey;2
+359;Troglodytidae;Cantorchilus nigricapillus;Soterrey Cabecipinto;359.wav;Soterrey;2
+360;Troglodytidae;Henicorhina leucosticta;Soterrey Montés Pechiblanco;360.wav;Soterrey;2
+361;Furnariidae;Sittasomus griseicapillus;Trepatroncos Oliváceo;361.wav;Trepatroncos;3
+362;Furnariidae;Deconychura longicauda;Trepatroncos Colilargo;362.wav;Trepatroncos;3
+363;Furnariidae;Dendrocincla tyrannina;Trepatroncos Tiranino;363.wav;Trepatroncos;3
+364;Furnariidae;Dendrocincla merula;Trepatroncos Barbiblanco;364.wav;Trepatroncos;3
+365;Furnariidae;Dendrocincla fuliginosa;Trepatroncos Pardo;365.wav;Trepatroncos;3
+366;Furnariidae;Glyphorynchus spirurus;Trepatroncos Piquicuña;366.wav;Trepatroncos;3
+367;Furnariidae;Dendrexetastes rufigula;Trepatroncos Golicanela;367.wav;Trepatroncos;3
+368;Furnariidae;Nasica longirostris;Trepatroncos Piquilargo;368.wav;Trepatroncos;3
+369;Furnariidae;Dendrocolaptes sanctithomae;Trepatroncos Barreteado Norteño;369.wav;Trepatroncos;3
+370;Furnariidae;Dendrocolaptes certhia;Trepatroncos Barreteado Amazónico;370.wav;Trepatroncos;3
+371;Furnariidae;Dendrocolaptes picumnus;Trepatroncos Negribandeado;371.wav;Trepatroncos;3
+372;Furnariidae;Hylexetastes stresemanni;Trepatroncos Ventribarrado;372.wav;Trepatroncos;3
+373;Furnariidae;Xiphocolaptes promeropirhynchus;Trepatroncos Piquifuerte;373.wav;Trepatroncos;3
+374;Furnariidae;Xiphorhynchus obsoletus;Trepatroncos Listado;374.wav;Trepatroncos;3
+375;Furnariidae;Xiphorhynchus ocellatus;Trepatroncos Ocelado;375.wav;Trepatroncos;3
+376;Furnariidae;Xiphorhynchus elegans;Trepatroncos Elegante;376.wav;Trepatroncos;3
+377;Furnariidae;Xiphorhynchus guttatus;Trepatroncos Golianteado;377.wav;Trepatroncos;3
+378;Furnariidae;Xiphorhynchus lachrymosus;Trepatroncos Pinto;378.wav;Trepatroncos;3
+379;Furnariidae;Xiphorhynchus erythropygius;Trepatroncos Punteado;379.wav;Trepatroncos;3
+380;Furnariidae;Xiphorhynchus triangularis;Trepatroncos Dorsioliva;380.wav;Trepatroncos;3
+381;Furnariidae;Dendroplex picus;Trepatroncos Piquirrecto;381.wav;Trepatroncos;3
+382;Furnariidae;Certhiasomus stictolaemus;Trepatroncos Golipunteado;382.wav;Trepatroncos;3
+383;Furnariidae;Lepidocolaptes souleyetii;Trepatroncos Cabecilistado;383.wav;Trepatroncos;3
+384;Furnariidae;Lepidocolaptes lacrymiger;Trepatroncos Montano (Montañero);384.wav;Trepatroncos;3
+385;Furnariidae;Lepidocolaptes duidae;Trepatroncos de Duida;385.wav;Trepatroncos;3
+386;Furnariidae;Glyphorynchus spirurus;Trepatroncos Piquicuña;386.wav;Trepatroncos;3
+387;Furnariidae;Dendrocincla tyrannina;Trepatroncos Tiranino;387.wav;Trepatroncos;3
+388;Furnariidae;Nasica longirostris;Trepatroncos Piquilargo;388.wav;Trepatroncos;3
+389;Furnariidae;Xiphorhynchus lachrymosus;Trepatroncos Pinto;389.wav;Trepatroncos;3
+390;Furnariidae;Xiphorhynchus triangularis;Trepatroncos Dorsioliva;390.wav;Trepatroncos;3
+391;Tyrannidae;Mionectes striaticollis;Mosquerito Cuellilistado;391.wav;Mosquerito;4
+392;Tyrannidae;Mionectes olivaceus;Mosquerito Olivirrayado;392.wav;Mosquerito;4
+393;Tyrannidae;Mionectes oleagineus;Mosquerito Ventriocráceo;393.wav;Mosquerito;4
+394;Tyrannidae;Leptopogon amaurocephalus;Mosquerito Gorrisepia;394.wav;Mosquerito;4
+395;Tyrannidae;Leptopogon superciliaris;Mosquerito Gorripizarroso;395.wav;Mosquerito;4
+396;Tyrannidae;Leptopogon rufipectus;Mosquerito Pechirrufo;396.wav;Mosquerito;4
+397;Tyrannidae;Sublegatus obscurior;Mosquerito Breñero Amazónico;397.wav;Mosquerito;4
+398;Tyrannidae;Sublegatus modestus;Mosquerito Breñero Sureño;398.wav;Mosquerito;4
+399;Tyrannidae;Myiotriccus ornatus;Mosquerito Adornado;399.wav;Mosquerito;4
+400;Tyrannidae;Myiophobus flavicans;Mosquerito Flavecente;400.wav;Mosquerito;4
+401;Tyrannidae;Myiophobus phoenicomitra;Mosquerito Crestinaranja;401.wav;Mosquerito;4
+402;Tyrannidae;Myiophobus roraimae;Mosquerito Roraimeño (de Roraima);402.wav;Mosquerito;4
+403;Tyrannidae;Myiophobus cryptoxanthus;Mosquerito Pechioliváceo;403.wav;Mosquerito;4
+404;Tyrannidae;Myiophobus fasciatus;Mosquerito Pechirrayado;404.wav;Mosquerito;4
+405;Tyrannidae;Myiobius villosus;Mosquerito Pechileonado;405.wav;Mosquerito;4
+406;Tyrannidae;Myiobius barbatus;Mosquerito Bigotudo;406.wav;Mosquerito;4
+407;Tyrannidae;Myiobius atricaudus;Mosquerito Colinegro;407.wav;Mosquerito;4
+408;Tyrannidae;Terenotriccus erythrurus;Mosquerito Colirrojizo;408.wav;Mosquerito;4
+409;Tyrannidae;Pyrrhomyias cinnamomeus;Mosquerito Canelo;409.wav;Mosquerito;4
+410;Tyrannidae;Nephelomyias pulcher;Mosquerito Hermoso;410.wav;Mosquerito;4
+411;Tyrannidae;Nephelomyias lintoni;Mosquerito Franjinaranja;411.wav;Mosquerito;4
+412;Tyrannidae;Lathrotriccus euleri;Mosquerito de Euler;412.wav;Mosquerito;4
+413;Tyrannidae;Lathrotriccus griseipectus;Mosquerito Pechigrís;413.wav;Mosquerito;4
+414;Tyrannidae;Cnemotriccus fuscatus;Mosquerito Fusco;414.wav;Mosquerito;4
+415;Tyrannidae;Empidonax virescens;Mosquerito Verdoso;415.wav;Mosquerito;4
+416;Tyrannidae;Empidonax traillii;Mosquerito de Sauces;416.wav;Mosquerito;4
+417;Tyrannidae;Empidonax alnorum;Mosquerito de Alisos;417.wav;Mosquerito;4
+418;Tyrannidae;Mitrephanes phaeocercus;Mosquerito Moñudo Norteño;418.wav;Mosquerito;4
+419;Tyrannidae;Nephelomyias lintoni;Mosquerito Franjinaranja;419.wav;Mosquerito;4
+420;Tyrannidae;Lathrotriccus euleri;Mosquerito de Euler;420.wav;Mosquerito;4
+421;Thamnophilidae;Drymophila devillei;Hormiguero Estriado;421.wav;Hormiguero;5
+422;Thamnophilidae;Drymophila striaticeps;Hormiguero Coronirrayado;422.wav;Hormiguero;5
+423;Thamnophilidae;Hypocnemis peruviana;Hormiguero Gorjeador Peruano;423.wav;Hormiguero;5
+424;Thamnophilidae;Hypocnemis hypoxantha;Hormiguero Cejiamarillo;424.wav;Hormiguero;5
+425;Thamnophilidae;Cercomacroides tyrannina;Hormiguero Oscuro;425.wav;Hormiguero;5
+426;Thamnophilidae;Cercomacroides serva;Hormiguero Negro;426.wav;Hormiguero;5
+427;Thamnophilidae;Cercomacroides nigrescens;Hormiguero Negruzco;427.wav;Hormiguero;5
+428;Thamnophilidae;Cercomacroides fuscicauda;Hormiguero Ribereño;428.wav;Hormiguero;5
+429;Thamnophilidae;Cercomacra cinerascens;Hormiguero Gris;429.wav;Hormiguero;5
+430;Thamnophilidae;Cercomacra nigricans;Hormiguero Azabache;430.wav;Hormiguero;5
+431;Thamnophilidae;Myrmoborus leucophrys;Hormiguero Cejiblanco;431.wav;Hormiguero;5
+432;Thamnophilidae;Myrmoborus lugubris;Hormiguero Pechicinéreo;432.wav;Hormiguero;5
+433;Thamnophilidae;Myrmoborus myotherinus;Hormiguero Carinegro;433.wav;Hormiguero;5
+434;Thamnophilidae;Hypocnemoides melanopogon;Hormiguero Barbinegro;434.wav;Hormiguero;5
+435;Thamnophilidae;Myrmochanes hemileucus;Hormiguero Negriblanco;435.wav;Hormiguero;5
+436;Thamnophilidae;Sclateria naevia;Hormiguero Plateado;436.wav;Hormiguero;5
+437;Thamnophilidae;Myrmelastes schistaceus;Hormiguero Pizarroso;437.wav;Hormiguero;5
+438;Thamnophilidae;Myrmelastes hyperythrus;Hormiguero Plomizo;438.wav;Hormiguero;5
+439;Thamnophilidae;Myrmelastes leucostigma;Hormiguero Alimoteado;439.wav;Hormiguero;5
+440;Thamnophilidae;Poliocrania exsul;Hormiguero Dorsicastaño;440.wav;Hormiguero;5
+441;Thamnophilidae;Ampelornis griseiceps;Hormiguero Cabecigrís;441.wav;Hormiguero;5
+442;Thamnophilidae;Sipia nigricauda;Hormiguero Esmeraldeño;442.wav;Hormiguero;5
+443;Thamnophilidae;Sipia berlepschi;Hormiguero Colimocho;443.wav;Hormiguero;5
+444;Thamnophilidae;Sciaphylax castanea;Hormiguero de Zimmer (Colicastaño Norteño);444.wav;Hormiguero;5
+445;Thamnophilidae;Akletos melanoceps;Hormiguero Hombriblanco;445.wav;Hormiguero;5
+446;Thamnophilidae;Hafferia fortis;Hormiguero Tiznado;446.wav;Hormiguero;5
+447;Thamnophilidae;Hafferia zeledoni;Hormiguero de Zeledon;447.wav;Hormiguero;5
+448;Thamnophilidae;Myrmophylax atrothorax;Hormiguero Golinegro;448.wav;Hormiguero;5
+449;Thamnophilidae;Myrmornis torquata;Hormiguero Alibandeado;449.wav;Hormiguero;5
+450;Thamnophilidae;Pithys albifrons;Hormiguero Cuerniblanco;450.wav;Hormiguero;5
+451;Thamnophilidae;Euchrepomis callinota;Hormiguerito Lomirrufo;451.wav;Hormiguerito;6
+452;Thamnophilidae;Euchrepomis humeralis;Hormiguerito Hombricastaño;452.wav;Hormiguerito;6
+453;Thamnophilidae;Euchrepomis spodioptila;Hormiguerito Alicinéreo;453.wav;Hormiguerito;6
+454;Thamnophilidae;Isleria hauxwelli;Hormiguerito Golillano;454.wav;Hormiguerito;6
+455;Thamnophilidae;Epinecrophylla fulviventris;Hormiguerito Ventrifulvo;455.wav;Hormiguerito;6
+456;Thamnophilidae;Epinecrophylla haematonota;Hormiguerito Golipunteado;456.wav;Hormiguerito;6
+457;Thamnophilidae;Epinecrophylla fjeldsaai;Hormiguerito del Yasuní;457.wav;Hormiguerito;6
+458;Thamnophilidae;Epinecrophylla spodionota;Hormiguerito Tropandino;458.wav;Hormiguerito;6
+459;Thamnophilidae;Epinecrophylla ornata;Hormiguerito Adornado;459.wav;Hormiguerito;6
+460;Thamnophilidae;Epinecrophylla erythrura;Hormiguerito Colirrufo;460.wav;Hormiguerito;6
+461;Thamnophilidae;Myrmotherula brachyura;Hormiguerito Pigmeo;461.wav;Hormiguerito;6
+462;Thamnophilidae;Myrmotherula ignota;Hormiguerito Bigotudo;462.wav;Hormiguerito;6
+463;Thamnophilidae;Myrmotherula multostriata;Hormiguerito Rayado Amazónico;463.wav;Hormiguerito;6
+464;Thamnophilidae;Myrmotherula pacifica;Hormiguerito del Pacífico;464.wav;Hormiguerito;6
+465;Thamnophilidae;Myrmotherula longicauda;Hormiguerito Pechilistado;465.wav;Hormiguerito;6
+466;Thamnophilidae;Myrmotherula axillaris;Hormiguerito Flanquiblanco;466.wav;Hormiguerito;6
+467;Thamnophilidae;Myrmotherula schisticolor;Hormiguerito Pizarroso;467.wav;Hormiguerito;6
+468;Thamnophilidae;Myrmotherula sunensis;Hormiguerito del Suno;468.wav;Hormiguerito;6
+469;Thamnophilidae;Myrmotherula longipennis;Hormiguerito Alilargo;469.wav;Hormiguerito;6
+470;Thamnophilidae;Myrmotherula behni;Hormiguerito Alillano;470.wav;Hormiguerito;6
+471;Thamnophilidae;Myrmotherula menetriesii;Hormiguerito Gris;471.wav;Hormiguerito;6
+472;Thamnophilidae;Herpsilochmus dugandi;Hormiguerito de Dugand;472.wav;Hormiguerito;6
+473;Thamnophilidae;Herpsilochmus gentryi;Hormiguerito Antiguo;473.wav;Hormiguerito;6
+474;Thamnophilidae;Herpsilochmus axillaris;Hormiguerito Pechiamarillo;474.wav;Hormiguerito;6
+475;Thamnophilidae;Herpsilochmus rufimarginatus;Hormiguerito Alirrufo;475.wav;Hormiguerito;6
+476;Thamnophilidae;Microrhopias quixensis;Hormiguerito Alipunteado;476.wav;Hormiguerito;6
+477;Thamnophilidae;Myrmotherula brachyura;Hormiguerito Pigmeo;477.wav;Hormiguerito;6
+478;Thamnophilidae;Myrmotherula ignota;Hormiguerito Bigotudo;478.wav;Hormiguerito;6
+479;Thamnophilidae;Myrmotherula multostriata;Hormiguerito Rayado Amazónico;479.wav;Hormiguerito;6
+480;Thamnophilidae;Myrmotherula pacifica;Hormiguerito del Pacífico;480.wav;Hormiguerito;6
+481;Picidae;Melanerpes cruentatus;Carpintero Penachiamarillo;481.wav;Carpintero;7
+482;Picidae;Melanerpes pucherani;Carpintero Carinegro;482.wav;Carpintero;7
+483;Picidae;Picoides fumigatus;Carpintero Pardo;483.wav;Carpintero;7
+484;Picidae;Veniliornis kirkii;Carpintero Lomirrojo;484.wav;Carpintero;7
+485;Picidae;Veniliornis passerinus;Carpintero Chico;485.wav;Carpintero;7
+486;Picidae;Veniliornis callonotus;Carpintero Dorsiescarlata;486.wav;Carpintero;7
+487;Picidae;Veniliornis dignus;Carpintero Ventriamarillo;487.wav;Carpintero;7
+488;Picidae;Veniliornis nigriceps;Carpintero Ventribarrado;488.wav;Carpintero;7
+489;Picidae;Veniliornis affinis;Carpintero Rojiteñido;489.wav;Carpintero;7
+490;Picidae;Veniliornis chocoensis;Carpintero del Chocó;490.wav;Carpintero;7
+491;Picidae;Campephilus pollens;Carpintero Poderoso;491.wav;Carpintero;7
+492;Picidae;Campephilus haematogaster;Carpintero Carminoso;492.wav;Carpintero;7
+493;Picidae;Campephilus rubricollis;Carpintero Cuellirrufo;493.wav;Carpintero;7
+494;Picidae;Campephilus melanoleucos;Carpintero Cresticarmesí;494.wav;Carpintero;7
+495;Picidae;Campephilus gayaquilensis;Carpintero Guayaquileño;495.wav;Carpintero;7
+496;Picidae;Dryocopus lineatus;Carpintero Lineado;496.wav;Carpintero;7
+497;Picidae;Celeus loricatus;Carpintero Canelo;497.wav;Carpintero;7
+498;Picidae;Celeus torquatus;Carpintero Fajeado;498.wav;Carpintero;7
+499;Picidae;Celeus grammicus;Carpintero Pechiescamoso;499.wav;Carpintero;7
+500;Picidae;Celeus flavus;Carpintero Flavo (Cremoso);500.wav;Carpintero;7
+501;Picidae;Celeus spectabilis;Carpintero Cabecirrufo;501.wav;Carpintero;7
+502;Picidae;Celeus elegans;Carpintero Castaño;502.wav;Carpintero;7
+503;Picidae;Piculus leucolaemus;Carpintero Goliblanco;503.wav;Carpintero;7
+504;Picidae;Piculus litae;Carpintero de Lita;504.wav;Carpintero;7
+505;Picidae;Piculus flavigula;Carpintero Goliamarillo;505.wav;Carpintero;7
+506;Picidae;Piculus chrysochloros;Carpintero Verdidorado;506.wav;Carpintero;7
+507;Picidae;Colaptes rubiginosus;Carpintero Olividorado;507.wav;Carpintero;7
+508;Picidae;Colaptes rivolii;Carpintero Dorsicarmesí;508.wav;Carpintero;7
+509;Picidae;Colaptes punctigula;Carpintero Pechipunteado;509.wav;Carpintero;7
+510;Picidae;Piculus chrysochloros;Carpintero Verdidorado;510.wav;Carpintero;7
+511;Parulidae;Setophaga castanea;Reinita Pechicastaña;511.wav;Reinita;8
+512;Parulidae;Setophaga fusca;Reinita Pechinaranja;512.wav;Reinita;8
+513;Parulidae;Setophaga petechia;Reinita Amarilla;513.wav;Reinita;8
+514;Parulidae;Setophaga pensylvanica;Reinita Flanquicastaña;514.wav;Reinita;8
+515;Parulidae;Setophaga striata;Reinita Estriada;515.wav;Reinita;8
+516;Parulidae;Setophaga caerulescens;Reinita Carinegra;516.wav;Reinita;8
+517;Parulidae;Setophaga virens;Reinita Cariamarilla;517.wav;Reinita;8
+518;Parulidae;Myiothlypis luteoviridis;Reinita Citrina;518.wav;Reinita;8
+519;Parulidae;Myiothlypis nigrocristata;Reinita Crestinegra;519.wav;Reinita;8
+520;Parulidae;Myiothlypis fulvicauda;Reinita Lomiantada;520.wav;Reinita;8
+521;Parulidae;Myiothlypis chrysogaster;Reinita Ventridorada;521.wav;Reinita;8
+522;Parulidae;Myiothlypis fraseri;Reinita Grisidorada;522.wav;Reinita;8
+523;Parulidae;Myiothlypis coronata;Reinita Coronirrojiza;523.wav;Reinita;8
+524;Parulidae;Basileuterus tristriatus;Reinita Cabecilistada;524.wav;Reinita;8
+525;Parulidae;Basileuterus trifasciatus;Reinita Tribandeada;525.wav;Reinita;8
+526;Parulidae;Cardellina canadensis;Reinita Collareja (de Canadá);526.wav;Reinita;8
+527;Parulidae;Cardellina pusilla;Reinita de Wilson;527.wav;Reinita;8
+528;Parulidae;Seiurus aurocapilla;Reinita Hornera;528.wav;Reinita;8
+529;Parulidae;Parkesia noveboracensis;Reinita Acuática Norteña;529.wav;Reinita;8
+530;Parulidae;Vermivora chrysoptera;Reinita Alidorada;530.wav;Reinita;8
+531;Parulidae;Mniotilta varia;Reinita Blanquinegra (Cebra);531.wav;Reinita;8
+532;Parulidae;Protonotaria citrea;Reinita Protonotaria;532.wav;Reinita;8
+533;Parulidae;Leiothlypis peregrina;Reinita Verdilla;533.wav;Reinita;8
+534;Parulidae;Oporornis agilis;Reinita Ojianillada;534.wav;Reinita;8
+535;Parulidae;Geothlypis philadelphia;Reinita Plañidera;535.wav;Reinita;8
+536;Parulidae;Setophaga cerulea;Reinita Cerúlea;536.wav;Reinita;8
+537;Parulidae;Seiurus aurocapilla;Reinita Hornera;537.wav;Reinita;8
+538;Parulidae;Myiothlypis nigrocristata;Reinita Crestinegra;538.wav;Reinita;8
+539;Parulidae;Myiothlypis fulvicauda;Reinita Lomiantada;539.wav;Reinita;8
+540;Parulidae;Setophaga caerulescens;Reinita Carinegra;540.wav;Reinita;8
+541;Accipitridae;Busarellus nigricollis;Gavilán de Ciénegas;541.wav;Gavilan;9
+542;Accipitridae;Geranospiza caerulescens;Gavilán Zancón;542.wav;Gavilan;9
+543;Accipitridae;Cryptoleucopteryx plumbea;Gavilán Plomizo;543.wav;Gavilan;9
+544;Accipitridae;Buteogallus schistaceus;Gavilán Pizarroso;544.wav;Gavilan;9
+545;Accipitridae;Buteogallus anthracinus;Gavilán Negro Cangrejero;545.wav;Gavilan;9
+546;Accipitridae;Buteogallus meridionalis;Gavilán Sabanero;546.wav;Gavilan;9
+547;Accipitridae;Buteogallus urubitinga;Gavilán Negro Grande;547.wav;Gavilan;9
+548;Accipitridae;Morphnarchus princeps;Gavilán Barreteado;548.wav;Gavilan;9
+549;Accipitridae;Rupornis magnirostris;Gavilán Campestre (Caminero);549.wav;Gavilan;9
+550;Accipitridae;Parabuteo unicinctus;Gavilán de Harris;550.wav;Gavilan;9
+551;Accipitridae;Parabuteo leucorrhous;Gavilán Lomiblanco;551.wav;Gavilan;9
+552;Accipitridae;Geranoaetus polyosoma;Gavilán Dorsirrojizo;552.wav;Gavilan;9
+553;Accipitridae;Pseudastur occidentalis;Gavilán Dorsigrís;553.wav;Gavilan;9
+554;Accipitridae;Leucopternis semiplumbeus;Gavilán Semiplomizo;554.wav;Gavilan;9
+555;Accipitridae;Leucopternis melanops;Gavilán Carinegro;555.wav;Gavilan;9
+556;Accipitridae;Buteo nitidus;Gavilán Gris;556.wav;Gavilan;9
+557;Accipitridae;Buteo platypterus;Gavilán Aludo;557.wav;Gavilan;9
+558;Accipitridae;Buteo albigula;Gavilán Goliblanco;558.wav;Gavilan;9
+559;Accipitridae;Buteo brachyurus;Gavilán Colicorto;559.wav;Gavilan;9
+560;Accipitridae;Buteo swainsoni;Gavilán de Swainson;560.wav;Gavilan;9
+561;Accipitridae;Buteo galapagoensis;Gavilán de Galápagos;561.wav;Gavilan;9
+562;Accipitridae;Buteo albonotatus;Gavilán Colifajeado;562.wav;Gavilan;9
+563;Accipitridae;Buteogallus urubitinga;Gavilán Negro Grande;563.wav;Gavilan;9
+564;Accipitridae;Morphnarchus princeps;Gavilán Barreteado;564.wav;Gavilan;9
+565;Accipitridae;Parabuteo unicinctus;Gavilán de Harris;565.wav;Gavilan;9
+566;Accipitridae;Pseudastur occidentalis;Gavilán Dorsigrís;566.wav;Gavilan;9
+567;Accipitridae;Leucopternis semiplumbeus;Gavilán Semiplomizo;567.wav;Gavilan;9
+568;Accipitridae;Buteo nitidus;Gavilán Gris;568.wav;Gavilan;9
+569;Accipitridae;Morphnarchus princeps;Gavilán Barreteado;569.wav;Gavilan;9
+570;Accipitridae;Rupornis magnirostris;Gavilán Campestre (Caminero);570.wav;Gavilan;9
+571;Columbidae;Columba livia;Paloma Doméstica;571.wav;Paloma;10
+572;Columbidae;Patagioenas speciosa;Paloma Escamosa;572.wav;Paloma;10
+573;Columbidae;Patagioenas fasciata;Paloma (Torcaza) Collareja;573.wav;Paloma;10
+574;Columbidae;Patagioenas cayennensis;Paloma Ventripálida;574.wav;Paloma;10
+575;Columbidae;Patagioenas oenops;Paloma del Marañón (Peruana);575.wav;Paloma;10
+576;Columbidae;Patagioenas plumbea;Paloma Plomiza;576.wav;Paloma;10
+577;Columbidae;Patagioenas subvinacea;Paloma Rojiza;577.wav;Paloma;10
+578;Columbidae;Patagioenas goodsoni;Paloma Oscura;578.wav;Paloma;10
+579;Columbidae;Geotrygon purpurata;Paloma Perdiz Púrpura;579.wav;Paloma;10
+580;Columbidae;Geotrygon saphirina;Paloma Perdiz Zafiro;580.wav;Paloma;10
+581;Columbidae;Geotrygon montana;Paloma Perdiz Rojiza;581.wav;Paloma;10
+582;Columbidae;Leptotrygon veraguensis;Paloma Perdiz Dorsioliva;582.wav;Paloma;10
+583;Columbidae;Leptotila verreauxi;Paloma Apical;583.wav;Paloma;10
+584;Columbidae;Leptotila ochraceiventris;Paloma Ventiocrácea;584.wav;Paloma;10
+585;Columbidae;Leptotila rufaxilla;Paloma Frentigrís;585.wav;Paloma;10
+586;Columbidae;Leptotila pallida;Paloma Pálida;586.wav;Paloma;10
+587;Columbidae;Zentrygon frenata;Paloma Perdiz Goliblanca;587.wav;Paloma;10
+588;Columbidae;Leptotila verreauxi;Paloma Apical;588.wav;Paloma;10
+589;Columbidae;Geotrygon saphirina;Paloma Perdiz Zafiro;589.wav;Paloma;10
+590;Columbidae;Patagioenas plumbea;Paloma Plomiza;590.wav;Paloma;10
+591;Columbidae;Patagioenas goodsoni;Paloma Oscura;591.wav;Paloma;10
+592;Columbidae;Patagioenas fasciata;Paloma (Torcaza) Collareja;592.wav;Paloma;10
+593;Columbidae;Geotrygon purpurata;Paloma Perdiz Púrpura;593.wav;Paloma;10
+594;Columbidae;Geotrygon saphirina;Paloma Perdiz Zafiro;594.wav;Paloma;10
+595;Columbidae;Leptotila pallida;Paloma Pálida;595.wav;Paloma;10
+596;Columbidae;Geotrygon montana;Paloma Perdiz Rojiza;596.wav;Paloma;10
+597;Columbidae;Patagioenas cayennensis;Paloma Ventripálida;597.wav;Paloma;10
+598;Columbidae;Columba livia;Paloma Doméstica;598.wav;Paloma;10
+599;Columbidae;Patagioenas speciosa;Paloma Escamosa;599.wav;Paloma;10
+600;Columbidae;Leptotrygon veraguensis;Paloma Perdiz Dorsioliva;600.wav;Paloma;10
